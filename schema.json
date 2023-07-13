@@ -1,0 +1,17 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "bb-component-SuperTableBlock",
+    "friendlyName": "bb-component-SuperTableBlock",
+    "description": "A Table Block Component for Budibase, with Super Powers.",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "text",
+        "label": "Text"
+      }
+    ]
+  }
+}
